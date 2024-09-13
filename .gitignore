@@ -1,0 +1,6 @@
+# Vercel
+.vercel
+
+# Node
+.package-lock.json
+/node_modules
