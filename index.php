@@ -11,7 +11,7 @@
             <div class="icono">
                 <img src="build/img/icono1.svg" alt="Icono seguridad" loading="lazy">
                 <h3>Seguridad</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid atque soluta a nisi sint, exercitationem quiau temporibus beatae in vitae dolore saepe rem culpa id, deleniti sit expedita? Corrupti, vero!</p>
+                <p>Lorem, ipsum dolor situ amet consectetur adipisicing elit. Aliquid atque soluta a nisi sint, exercitationem quiau temporibus beatae in vitae dolore saepe rem culpa id, deleniti sit expedita? Corrupti, vero!</p>
             </div>
             <div class="icono">
                 <img src="build/img/icono2.svg" alt="Icono Precio" loading="lazy">
